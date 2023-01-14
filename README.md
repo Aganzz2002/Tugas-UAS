@@ -1,7 +1,9 @@
 # Project UAS Bahasa Pemrograman
 
 Nama : Yehezkiel Juandro Metta
+
 NIM  : 312210376
+
 Kelas: TI.22.B2
 
 # Ketentuan Program
