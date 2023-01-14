@@ -57,7 +57,7 @@ Berikut adalah Source Code dari program di atas
 
 ### B. Penjelasan
 ```py 
-from model.daftar_nilai import data
+from model.daftar_nilai import database
 ```
 - Berfungsi untuk memanggil data(dictionary) pada modul `daftar_nilai.py`.
 
@@ -128,13 +128,13 @@ proses eksekusi</br>
 - Dokumentasi program menampilkan data</br>
 
 
-![image](Screenshot/SS.12.jpg
+![image](Screenshot/SS.12.jpg)
 
 ### Hapus Data
 - Dokumentasi program Hapus data</br>
 
 
-![image](Screenshot/SS.11.jpg
+![image](Screenshot/SS.11.jpg)
 
 ### Keluar Program
 - Dokumentasi keluar program</br>
