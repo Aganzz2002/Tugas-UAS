@@ -143,4 +143,8 @@ proses eksekusi</br>
 ![image](Screenshot/SS.13.jpg)
 
 
+### Link Youtube :
+Part 1 : https://youtu.be/-Q3_vOEdl5g
+Part 2 : https://youtu.be/mrVu2jiUkNQ
+
 # SEKIAN
